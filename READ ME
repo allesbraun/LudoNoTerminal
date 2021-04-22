@@ -1,0 +1,5 @@
+chega lá no terminal e digita nao lembro como faz makefile direito
+
+clang++-7 -pthread -std=c++17 -o main main.cpp
+
+./main
